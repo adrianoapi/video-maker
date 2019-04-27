@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+#credentials
+credentials/*
+
+content.json
+
+content/*.png
+content/*.jpg
+content/*js
+content/*mov
